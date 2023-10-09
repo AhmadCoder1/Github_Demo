@@ -1,2 +1,2 @@
 # Github_Demo
-this is my first github demo. &lt;br> Author M Ahmad.
+this is my first github demo. Author M Ahmad.
